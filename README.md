@@ -32,6 +32,7 @@ https://github.com/praneeth724/LMS/assets/116500216/3f48beca-307a-4a01-bae5-5df9
 I utilized JAVA for its robustness and versatility, coupled with the powerful NetBeans IDE for efficient development. This combination allowed me to create a scalable and well-structured application.
 
 Download NetBean IDE- https://www.bing.com/ck/a?!&&p=566e35a304beffb3JmltdHM9MTcwMjU5ODQwMCZpZ3VpZD0yMWRkNDA0NS00ZmIwLTYxZTItMzA2Yy01MjEyNGU4ODYwYzgmaW5zaWQ9NTQ0Nw&ptn=3&ver=2&hsh=3&fclid=21dd4045-4fb0-61e2-306c-52124e8860c8&psq=%2bdownload+neatbeans&u=a1aHR0cHM6Ly9uZXRiZWFucy5hcGFjaGUub3JnL2Zyb250L21haW4vZG93bmxvYWQvbmIxOS9pbmRleC5odG1s&ntb=1
+
 Download XAMPP Server-https://www.bing.com/ck/a?!&&p=8ebe72a011585a69JmltdHM9MTcwMjU5ODQwMCZpZ3VpZD0yMWRkNDA0NS00ZmIwLTYxZTItMzA2Yy01MjEyNGU4ODYwYzgmaW5zaWQ9NTE5NQ&ptn=3&ver=2&hsh=3&fclid=21dd4045-4fb0-61e2-306c-52124e8860c8&psq=xampp+download&u=a1aHR0cHM6Ly93d3cuYXBhY2hlZnJpZW5kcy5vcmcvZG93bmxvYWQuaHRtbA&ntb=1
 
 👨‍💻 Coding Journey:
